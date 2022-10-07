@@ -27,7 +27,7 @@ class ImageLearn extends StatelessWidget {
 class ImageItems {
   final String appleWithBook = "assets/apple_logo.png";
   final String appleBook = "assets/png/ic_apple_with_school.png";
-  final String appleBookWithoutPath = "ic_apple_with_school";
+  final String appleBookWithoutPath = "ic_apple_with_school.png";
 }
 
 class PngImage extends StatelessWidget {
