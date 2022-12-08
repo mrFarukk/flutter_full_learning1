@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
             backgroundColor: Colors.transparent,
             elevation: 0,
           )),
-      home: const ContainerSizedBoxLearn(),
+      home: const ScaffoldLearnView(),
     );
   }
 }
